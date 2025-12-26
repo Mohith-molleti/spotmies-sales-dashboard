@@ -24,4 +24,4 @@ Sales data with:
 To analyze sales performance and geographical trends for business decision-making.
 
 ## Author
-Mayya
+Mohith Molleti
